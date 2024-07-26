@@ -1,0 +1,2 @@
+from SpeachToText import Speech_To_Text_Python
+Speech_To_Text_Python()
